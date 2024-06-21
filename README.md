@@ -34,16 +34,3 @@ following information related to DNS:
 
 - Identify which service providers have issued TLS/SSL certificates
     for the domain
-
-## Question 3
-
-Design an AWS networking architecture for hosting a simple
-WordPress application, which accentuates:
-
-- VPC and appropriate subnets
-
-- Components deployed in the subnet
-
-- Components managed by AWS
-
-- Ingress and Egress of traffic from the application
